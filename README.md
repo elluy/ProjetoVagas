@@ -24,4 +24,7 @@ https://chromedriver.storage.googleapis.com/index.html?path=2.41/
 Se ficar alguma dúvida ou tiver algum problema, entre em contato que posso tentar ajudar.
 Obrigado ;)
 
+Elluy Pereira
+elluy100@gmail.com
+
 
